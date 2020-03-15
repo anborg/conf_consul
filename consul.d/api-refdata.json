@@ -1,0 +1,6 @@
+{"service":
+    {"name": "api-refdata",
+     "tags": ["micronaut", "rest"],
+     "port": 8082
+    }
+  }
